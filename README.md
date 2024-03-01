@@ -6,12 +6,12 @@
 - Multi Linear Regresssion
 - KNN - Classification
 
-### {1 - 30}
+### {1 - 31}
 
 - Data Modelling - {R}
 - Data Visualization - {Matplotlib}
 
-### {31 - L9}
+### {32 - L9}
 
 - Data Modelling - {Python}
 - Data Visualization - {Seaborn, Power BI}
