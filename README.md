@@ -24,7 +24,3 @@ To explore or execute the models, open the corresponding `.ipynb` notebooks in J
 ```bash
 pip install numpy pandas scikit-learn matplotlib
 ```
-
-## How to Contribute
-
-Feel free to submit issues or pull requests if you'd like to improve any of the models or add new ones.
